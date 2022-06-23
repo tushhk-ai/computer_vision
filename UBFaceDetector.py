@@ -1,14 +1,4 @@
-'''
-All of your implementation should be in this file.
-'''
-'''
-This is the only .py file you need to submit. 
-'''
-'''
-    Please do not use cv2.imwrite() and cv2.imshow() in this function.
-    If you want to show an image for debugging, please use show_image() function in helper.py.
-    Please do not save any intermediate files in your final submission.
-'''
+
 from helper import show_image
 
 import cv2
@@ -113,11 +103,3 @@ def cluster_faces(input_path: str, K: int) -> dict:
 
 #print(rl)
 
-'''
-If you want to write your implementation in multiple functions, you can write them here. 
-But remember the above 2 functions are the only functions that will be called by FaceCluster.py and FaceDetector.py.
-'''
-
-"""
-Your implementation of other functions (if needed).
-"""
