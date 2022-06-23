@@ -13,7 +13,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler , StandardScaler
 import matplotlib.pyplot as plt
 '''
-Please do NOT add any imports. The allowed libraries are already imported for you.
+Please do NOT add any imports.
 '''
 
 #input_path = "validation_folder/images"
